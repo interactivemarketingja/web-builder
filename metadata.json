@@ -1,0 +1,8 @@
+{
+  "name": "Atelier Frame",
+  "description": "AI-powered drag-and-drop website builder with prompt template generation, real-time responsive preview, clean HTML/CSS code handoff, and one-click live deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
